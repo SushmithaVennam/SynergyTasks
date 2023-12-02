@@ -1,0 +1,68 @@
+.first {
+    font-style:normal;
+    word-spacing:6px;
+}
+.second {
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.third {
+    color: rgb(173, 11, 65);
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    font-style: italic;
+    text-align: center;
+    font-size: 35px;
+}
+
+.span1 {
+    font-style: italic;
+}
+
+.span2 {
+    word-spacing: 3px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.header {
+    text-align: center;
+}
+
+button {
+    background-color: rgb(173, 11, 65);
+    color: white;
+}
+
+.img1 {
+    width: 70%;
+    height: 20%;
+}
+
+.img2 {
+    height: 20%;
+    width: 250px;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-me {
+    display: flex;
+    flex-flow: column;
+    align-self: baseline;
+}
+
+.color {
+    color: white;
+}
