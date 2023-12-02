@@ -1,0 +1,12 @@
+.iframe {
+    border: 2px solid black;
+    position: fixed;
+    top: 20%;
+    left: 40%;
+    
+}
+
+.popup {
+    text-align: center;
+}
+
