@@ -1,0 +1,13 @@
+#scale1 {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+    transition-property: all;
+    transition-duration: 5s;
+}
+
+#scale1:hover {
+    background-color: red;
+    transform: scale(0.5,0.5);
+}

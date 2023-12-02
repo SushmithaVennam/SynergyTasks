@@ -1,0 +1,15 @@
+#scale {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 100px;
+}
+/* 
+#scale:hover {
+    transform: scaleX(2);
+} */
+
+
+#scale:hover {
+    transform: scale(3,3);
+}
